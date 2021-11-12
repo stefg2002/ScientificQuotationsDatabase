@@ -1,0 +1,99 @@
+Topic:Physics
+Quote:YES
+Author:ABDALLAH MENDHAWI
+
+Topic:Physics           
+Quote:Nothing happens until something moves.                               																	     
+Author:ALBERT EINSTEIN
+
+Topic:Biology           
+Quote:I believe that thirty million of these animalcules together would not take up as much room, or be as big, as a coarse grain of sand.                               						     
+Author:ANTONIE VAN LEEUWENHOEK
+
+Topic:Biology           
+Quote:By ‘life,’ we mean a thing that can nourish itself and grow and decay.                               												             
+Author:ARISTOTLE
+
+Topic:Math             
+Quote:No employment can be managed without arithmetic, no mechanical invention without geometry.                               											     
+Author:BENJAMIN FRANKLIN
+
+Topic:Math              
+Quote:I have had my results for a long time: but I do not yet know how I am to arrive at them.                               											     
+Author:CARL FRIEDRICH GAUSS
+
+Topic:Computer Science  
+Quote:It’s hardware that makes a machine fast.  It’s software that makes a fast machine slow.                               											     
+Author:CRAIG BRUCE
+
+Topic:Chemistry
+Quote:We think there is color, we think there is sweet, we think there is bitter, but in reality there are atoms and a void                                                                                             
+Author:DEMOCRITUS
+
+Topic:Computer Science  
+QUote:Computer Science is no more about computers than astronomy is about telescopes.                               												     
+Author:EDSGER W.DIJKSTRA
+
+Topic:Computer Science  
+Quote:A computer once beat me at chess, but it was no match for me at kick boxing.                               													     
+Author:EMO PHILIPS
+
+Topic:Biology           
+Quote:Everything that human beings or living animals do is done by protein molecules. And therefore the kind of proteins that one has and therefore the ability one has is determined by the genes that one has.        
+Author:HAR GOBIND KHORANA
+
+Topic:Chemistry	         
+Quote:The physical chemists never use their eyes and are most lamentably lacking in chemical culture. It is essential to cast out from our midst, root and branch, this physical element and return to our laboratories.
+Author:HENRY EDWARD ARMSTRONG
+
+Topic:Biology           
+Quote:The finding of the double helix thus brought us not only joy but great relief. It was unbelievably interesting and immediately allowed us to make a serious proposal for the mechanism of gene duplication.       
+Author:JAMES WATSON
+
+Topic:Math              
+Quote:Where there is matter, there is geometry.                               																	     
+Author:JOHANNES KEPLER
+
+Topic:Chemistry         
+Quote:Every aspect of the world today – even politics and international relations – is affected by chemistry.                                    								             
+Author:LINUS PAULING
+
+Topic:Computer Science  
+Quote:Software is a gas; it expands to fill its container.                               																     
+Author:NATHAN MYHRVOLD
+
+Topic:Computer Science  
+Quote:Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.                               					     
+Author:NORMAN AUGUSTINE
+
+Topic:Physics           
+Quote:Physics isn't the most important thing. Love is.                               																     
+Author:RICHARD P. FEYNMAN
+
+Topic:Physics           
+Quote:In the beginning there was nothing, which exploded.                               															   	     
+Author:TERRY PRATCHETT
+
+Topic:Chemistry        
+Quote:Chemistry, unlike other sciences, sprang originally from delusions and superstitions, and was at its commencement exactly on a par with magic and astrology.                               			     
+Author:THOMAS THOMSON
+
+Topic:Math              
+Quote:Some mathematician, I believe, has said that true pleasure lies not in the discovery of truth, but in the search for it.                               							     
+Author:TOLSTOY
+
+Topic:Biology           
+Quote:Although Nature needs thousands or millions of years to create a new species, man needs only a few dozen years to destroy one.                              							     
+Author:VICTOR SCHEFFER
+
+Topic:Physics           
+Quote:Not only is the Universe stranger than we think, it is stranger than we can think.                               												     
+Author:WERNER HEISENBERG
+
+Topic:Chemistry    	 
+Quote:The country which is in advance of the rest of the world in chemistry will also be foremost in wealth and in general prosperity.	                               						     
+Author:WILLIAM RAMSAY
+
+Topic:Physics
+Quote:Physics is pretty cool
+Author:STEFANO GIAMMARRESI
